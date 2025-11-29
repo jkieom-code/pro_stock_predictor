@@ -1,0 +1,10 @@
+pro_stock_predictor/
+│── app.py
+│── model/
+│   ├── train.py
+│   ├── features.py
+│   ├── lstm.py
+│── utils/
+│   ├── indicators.py
+│   ├── data.py
+│── requirements.txt
